@@ -1,4 +1,3 @@
-**CS50: Introduction to Computer Science**
+**CS50: Introduction to Computer Science, Harvard University course in Brazil**
 
-Repository to share my studies in C language from CS50: Introduction to Computer Science, Harvard University course in Brazil.
-This is just a study.
+Repository to share my studies in C language, this is just a study.
